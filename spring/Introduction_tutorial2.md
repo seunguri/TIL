@@ -208,6 +208,7 @@ public class SpringConfig {
 5. 스프링 데이터 JPA
 
 # H2
+로컬서버에서 사용함.
 
 ### 연결
 
